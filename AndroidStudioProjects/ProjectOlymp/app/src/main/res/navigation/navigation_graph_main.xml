@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto" android:id="@+id/navigation"
+    app:startDestination="@id/main_dest">
+
+    <fragment
+        android:id="@+id/main_dest"
+        android:name="com.example.project1.fragments.MainFragment"
+        android:label="MainFragment" >
+        <action
+            android:id="@+id/action_main_dest_to_admin_dest"
+            app:destination="@id/admin_dest" />
+        <action
+            android:id="@+id/action_main_dest_to_mlkit_dest"
+            app:destination="@id/MLKit_dest" />
+    </fragment>
+    <fragment
+        android:id="@+id/admin_dest"
+        android:name="com.example.project1.fragments.AdminFragment"
+        android:label="AdminFragment" />
+    <fragment
+        android:id="@+id/MLKit_dest"
+        android:name="com.example.project1.fragments.MLKitFragment"
+        android:label="MLKitFragment" />
+</navigation>

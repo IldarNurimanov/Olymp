@@ -1,0 +1,3 @@
+include ':arCore'
+include ':app'
+rootProject.name = "PROJECT1"

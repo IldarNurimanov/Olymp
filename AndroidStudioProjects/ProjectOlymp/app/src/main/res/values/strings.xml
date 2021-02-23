@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Узнай, что в классе</string>
+    <string name="toAdmin">Панель администратора</string>
+    <string name="toOpenCv">ЧТо-то надо починить</string>
+    <string name="adminPanelHeader">Панель администратора</string>
+    <string name="event">Мероприятие</string>
+    <string name="start_event">Начало мерпориятия (ЧЧ:ММ)</string>
+    <string name="endEvent">Конец мерпориятия (ЧЧ:ММ)</string>
+    <string name="responsible">Ответственный</string>
+    <string name="number_classroom">Номер кабинета</string>
+    <string name="save">Загрузить в базу данных</string>
+    <string name="in_number">Введите номер кабинета</string>
+    <string name="get">Текущее мероприятие</string>
+    <string name="toMLKit">Открыть камеру</string>
+    <string name="date">Дата (ДД.ММ.ГГГГ)</string>
+    <string name="eventInfo">Дата:%1$s\nНачало:%2$s\nКонец:%3$s\nМероприятие:%4$s\nОтветственный:%5$s\n</string>
+</resources>
