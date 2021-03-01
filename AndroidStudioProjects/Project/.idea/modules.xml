@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PROJECT1.iml" filepath="$PROJECT_DIR$/.idea/modules/PROJECT1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/PROJECT1.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/PROJECT1.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/arCore/PROJECT1.arCore.iml" filepath="$PROJECT_DIR$/.idea/modules/arCore/PROJECT1.arCore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/openCVLibrary451/PROJECT1.openCVLibrary451.iml" filepath="$PROJECT_DIR$/.idea/modules/openCVLibrary451/PROJECT1.openCVLibrary451.iml" />
+    </modules>
+  </component>
+</project>
